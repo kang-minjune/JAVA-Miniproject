@@ -9,7 +9,7 @@
 
 <br/>
 
-<div align="left" width="900">
+<div align="left">
   
   <div align="left">
   

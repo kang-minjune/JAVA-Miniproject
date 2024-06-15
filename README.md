@@ -10,8 +10,6 @@
 <br/>
   
 <div align="left">
-
-  ## Development Environment
   
   | 항목 | 내용 |
   | --- | --- |
@@ -20,6 +18,7 @@
   | Language | ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)|
   | File Name Extension | readfile.csv |
   
+  ## Development Environment
 </div>
 
 <div align="right">

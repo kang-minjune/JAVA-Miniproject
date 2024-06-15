@@ -2,7 +2,10 @@
 
 ## 시연영상
 
-https://github.com/kang-minjune/JAVA-Miniproject/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%B5%E1%84%8B%E1%85%A7%E1%86%AB%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.mp4
+<video src="https://github.com/bakuuuuuuu/recipe-share-platform/assets/54611807/3e92e6b2-1ada-42af-8963-5a7531551b54" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+
 
 <br/>
 

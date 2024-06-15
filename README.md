@@ -20,6 +20,7 @@
   | Language | ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)|
   | File Name Extension | readfile.csv |
 
+ <p align="right">
    ### Members
   
   | Name | Role |
@@ -28,5 +29,7 @@
   | 김재한 | 프로그램 구상, 프로그래밍 |
   | 강민준 | 프로그래밍 |
   | 박성은 | 프로그래밍 |
+ </p>
+ 
 </div>
 

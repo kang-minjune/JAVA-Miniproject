@@ -9,7 +9,7 @@
 
 <br/>
   
-<div align="left" width="500px">
+<div align="left">
   
   ### Development Environment
   
@@ -19,12 +19,8 @@
   | IDE | ![Eclipse IDE](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)|
   | Language | ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)|
   | File Name Extension | readfile.csv |
-  
-</div>
 
-<div align="right" width="350px">
-  
-  ### Members
+   ### Members
   
   | Name | Role |
   | --- | --- |
@@ -32,6 +28,5 @@
   | 김재한 | 프로그램 구상, 프로그래밍 |
   | 강민준 | 프로그래밍 |
   | 박성은 | 프로그래밍 |
-  
 </div>
 

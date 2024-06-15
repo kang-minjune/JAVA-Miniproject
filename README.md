@@ -11,7 +11,7 @@
   
 <div align="left">
   
-  ## Development Environment
+  ### Development Environment
   
   | 항목 | 내용 |
   | --- | --- |
@@ -24,7 +24,7 @@
 
 <div align="right">
   
-  ## Members
+  ### Members
   
   | Name | Role |
   | --- | --- |

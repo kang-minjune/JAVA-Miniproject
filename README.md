@@ -9,28 +9,32 @@
 
 <br/>
 
-<div align="left">
-
-## Development Environment
-
-| 항목 | 내용 |
-| --- | --- |
-| OS | [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS) |
-| IDE | ![Eclipse IDE](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)|
-| Language | ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)|
-| File Name Extension | readfile.csv |
-</div>
-
-<div align="left">
+<div align="left" width="900">
   
-## Members
-
-| Name | Role |
-| --- | --- |
-| 이채린(팀장) | 기획 및 총괄 |
-| 김재한 | 프로그램 구상, 프로그래밍 |
-| 강민준 | 프로그래밍 |
-| 박성은 | 프로그래밍 |
+  <div align="left">
+  
+    ## Development Environment
+    
+    | 항목 | 내용 |
+    | --- | --- |
+    | OS | [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS) |
+    | IDE | ![Eclipse IDE](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)|
+    | Language | ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)|
+    | File Name Extension | readfile.csv |
+    
+  </div>
+  
+  <div align="right">
+    
+    ## Members
+    
+    | Name | Role |
+    | --- | --- |
+    | 이채린(팀장) | 기획 및 총괄 |
+    | 김재한 | 프로그램 구상, 프로그래밍 |
+    | 강민준 | 프로그래밍 |
+    | 박성은 | 프로그래밍 |
+    
+  </div>
   
 </div>
-

@@ -14,7 +14,7 @@ https://github.com/kang-minjune/JAVA-Miniproject/assets/100847512/93d7f815-242d-
 
   | 항목 | 내용 | 이름 | 역할 |
   | --- | --- | --- | --- |
-  | <strong> 개인 </strong> | --- | 팀   | --- |
+  |    개인    |     팀    |
   | OS | [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS) | 이채린(팀장) |  기획 및 총괄 |
   | IDE | ![Eclipse IDE](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)| 김재한 | 프로그램 구상, 프로그래밍 |
   | Language | ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)| 강민준 | 프로그래밍 |

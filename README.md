@@ -9,7 +9,7 @@
 
 <br/>
   
-<div align="left" width="300px">
+<div align="left" width="500px">
   
   ### Development Environment
   

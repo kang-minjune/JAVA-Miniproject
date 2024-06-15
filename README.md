@@ -9,7 +9,7 @@
 
 <br/>
   
-<div align="left" width="500px">
+<div align="left" width="300px">
   
   ### Development Environment
   
@@ -22,7 +22,7 @@
   
 </div>
 
-<div align="right" width="500px">
+<div align="right" width="350px">
   
   ### Members
   

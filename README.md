@@ -12,10 +12,5 @@
 | --- | --- |
 | OS | [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS) |
 | IDE | ![Eclipse IDE](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)|
-| Language | ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)|
-| FrameWork | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) |
-| Database | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) |
-| Migration | ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) |
-| Cloud Platform | <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> |
-| library | react-router-dom@6.23.0, @fortawesome, styled-components@6.1.9 |  
-| React Version | ^18.3.1 |
+| Language | ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)|
+| File Name Extension | readfile.csv |

@@ -1,7 +1,7 @@
 # 쇼핑몰 구매 및 배송조회 프로그램
 
 ## 시연영상
-[시연 영상](https://github.com/kang-minjune/JAVA-Miniproject/assets/100847512/93d7f815-242d-48f4-93e5-c3b63e3e27f4)
+https://github.com/kang-minjune/JAVA-Miniproject/assets/100847512/93d7f815-242d-48f4-93e5-c3b63e3e27f4
 
 <br/>
 

@@ -22,7 +22,7 @@
   
 </div>
 
-<div align="right">
+<div align="right" width="500px">
   
   ### Members
   

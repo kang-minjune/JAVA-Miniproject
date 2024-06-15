@@ -12,8 +12,6 @@ https://github.com/kang-minjune/JAVA-Miniproject/assets/100847512/93d7f815-242d-
   
 <div align="left">
 
-  | 개인 | 팀   |
-  | --- | --- | --- | --- |
   | 항목 | 내용 | 이름 | 역할 |
   | --- | --- | --- | --- |
   | OS | [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS) | 이채린(팀장) |  기획 및 총괄 |

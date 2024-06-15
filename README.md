@@ -11,8 +11,6 @@
   
 <div align="left">
   
-  ### Development Environment
-  
   | 항목 | 내용 |
   | --- | --- |
   | OS | [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS) |
@@ -20,16 +18,13 @@
   | Language | ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)|
   | File Name Extension | readfile.csv |
 
- <div align="right">
-   ### Members
   
-  | Name | Role |
+  | 이름 | 역할 |
   | --- | --- |
   | 이채린(팀장) | 기획 및 총괄 |
   | 김재한 | 프로그램 구상, 프로그래밍 |
   | 강민준 | 프로그래밍 |
   | 박성은 | 프로그래밍 |
- </div>
  
 </div>
 

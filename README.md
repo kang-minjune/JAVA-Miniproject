@@ -19,6 +19,9 @@ https://github.com/kang-minjune/JAVA-Miniproject/assets/100847512/93d7f815-242d-
   | Language | ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)|
   | File Name Extension | readfile.csv |
 
+</div>
+
+<div align="right">
   
   | 이름 | 역할 |
   | --- | --- |
